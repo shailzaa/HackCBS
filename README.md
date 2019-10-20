@@ -1,5 +1,4 @@
-# Code Capsule
-![](./static/img/logobg.png)
+# Code, Capture Compile
 
 ## Problem Statement
 Currently, there are no services in the market which let you compile and execute your hand-written code directly.
@@ -29,8 +28,6 @@ In Mobile Interface, Code Capsule allows you to directly capture the image of yo
 ### Desktop Interface
 In Desktop Interface, the photo is uploaded directly for code recognition. As in the mobile interface, after selection of one of the two available options, the code is compiled and executed.
 
-![](video.gif)
-
 ![](./static/img/img1.png)
 ![](./static/img/img3.png)
 
@@ -42,4 +39,4 @@ In Desktop Interface, the photo is uploaded directly for code recognition. As in
 * Provide support for even more languages.
 * Provide the accuracy growth of programmer over the time.
 
-Made with <3 during wmn hackathon 2019.
+Made with <3 during HackCBS hackathon 2019.
