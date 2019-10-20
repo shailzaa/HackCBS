@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shaped-kite-256505",
+  "private_key_id": "03683a0883cc4c275102fad9cac80ef10c111a71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDl4oLRylBGIIWM\nUiePnsdrRCh+dpf0mGwyukyKVdEvvsRwuUbtM+MjYQ1B2f2pOVPS6ThRv1GBxw+4\njSv/9lSprZA8cFXV+01oDk6Unrjg/cTJtDvjMbFj3uQULJQbBnnF3Oqxft6uUdV3\neANFAoknDJVpNwPDTB3X98r8V6Q2TO7icA51lXxFxvCPZprKQ6eBoq1A0pv/SgqZ\nUw5+AXpRfIcrp4vqgmdGC7G4KcOi/WSlr4mTvnOAkgoZgHBSR8uSHc5YwxFHX1SC\nXajNkQ5zuEaxLAIsw5BEzSgfCH3CJOLg6NGXCsocDX4PV7c1+yUNwbzzz2CpqIex\nLazvKpY7AgMBAAECggEAYfeC2pbGWOxZHXCRbXIz9/GG9EXkAhfG3GNqZPWnfRpm\nKse6gzG+lYAxnyOgJzLIFzTOjH/k41KKz5JR8vXuJJVTx330Bone9f5K3Kk7jp52\n86J8dxjhSPde6X4J6+55jKnV1qiDi3RSbWRWuF0ZR+vj7H/Geb8BZN0zwxAyafTW\nfEBWQrwH2GrUA/gjYi5695ckjXXA+QT6/4uKsPXzXtSIrmCBMcBOFqq4YEvP7Uf7\nX8WK+ch5nbxE5/ncanwKyJDv70gh/FSQNPw525eMXIworYmaYZr/qJYKOyvnKrJI\nETWlKdpOUeen0UOvUuP/e6peIKKYX8VeIPHjiG0TQQKBgQD1u3j7BYohXKFRg/RC\nkihpeOamLgGx+fdiXmszzK2AsylU8ikrMDyywyjPo8iyW+YhKZcBmRYhgNbbh3+b\nbHXkEW+hJDnmONmlAr7RcVZhq/Dk1s11ExLzpSgFGTIUOt91inp7JbUxTHxotvT2\nA1tAA4U3w5dL1BhLCOvNkksBIQKBgQDvfYWyHILSHJvCWGBW0q9NDCu3GlkJMl/r\nmvPJTyTgaeep+wG0WPzmd36bCHPNC12LEwHbRxSPIokxe58sIzN78StYIMhBiXPx\nt/OL7yFsOQC92x5OhX+BsDFQzjdnoCJ888Bclq6SFxJa/XG8YVm02QQMwUQWwXlE\ngn4pqQm/2wKBgDMbIFgkmMvDdhF7/gryVtFIwb+CBfw73oVo2abWRKdlm4z9KC7B\nQ35yNESq7YyarEvtWGiOrBmfsA/MKG/sqMAcGDlNTXViEXHOFl180thRaDJPsj9N\nDj359U7KJK4saFkLydleyEZOf/lPQ7b+j7XKhaRJW2f73mmMm24PpOXBAoGAcUWI\nN57ejSw0y23rWwVZHnL0Ni1DEWN/FLt8NKm3QmE0ziPHQZqZOxQnkIIl60RF4SKD\nTUhIRA7MntfeiAy6LBP8MTmIHd86NIiRq4zV3Q7099csdW0Uyq0gFh0C/YMy7LCJ\nOgGW3cgFyX14DuZofG3sSXAbmTu29J1XuLKXxuMCgYA4ErnzlMtLvQqoX6dLTwUt\n1vIOoZomeRC/8RCG3kmin5iJgnh8A6qO/pmBAD2kaTUVHMtK9ykD7GeZj+gv1m0x\nmZEOkptAg8HClcEW/9BkZx6EBmgCdfF/BpQmqHJ02RqDpYlCbfHB5UBUXB3COj6x\nTx1AHV377W+WO4vvardbZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackcbs@shaped-kite-256505.iam.gserviceaccount.com",
+  "client_id": "113331878416455934388",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackcbs%40shaped-kite-256505.iam.gserviceaccount.com"
+}
